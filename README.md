@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @plumbumfarina
-
+<!---
 - 🌱 I’m currently learning Python & Git
-
+--->
 
 <!---
 - 📫 How to reach me ...
